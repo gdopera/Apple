@@ -31,6 +31,9 @@ host, ocsp.apple.com, direct
 host, api.smoot.apple.com,direct
 HOST, apps.apple.com,direct
 HOST, itunes.apple.com,direct
+host-keyword, huichuan-mc.sm.cn, reject
+host-keyword, knockout, reject
+ip-cidr, 203.107.1.1/24, reject
 
 # > 路由器后台
 ip-cidr, 192.168.0.1/24, direct
