@@ -3,7 +3,6 @@
 #!desc=Spotify分流,屏蔽IOS更新,加去广告
 
 [Rule]
-HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,香港
 HOST-SUFFIX,byspotify.com,香港
 HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,香港
 HOST-SUFFIX,pscdn.co,香港
