@@ -1,0 +1,12 @@
+#!url=https://raw.githubusercontent.com/gdopera/Apple/main/Update.sgmodule
+#!name=Spotify分流
+#!desc=Spotify分流
+
+[Rule]
+USER-AGENT,Spotify*,香港
+DOMAIN-SUFFIX,pscdn.co,香港
+DOMAIN-SUFFIX,scdn.co ,香港
+DOMAIN-SUFFIX,spotify.com ,香港
+DOMAIN-SUFFIX,spoti.fi ,香港
+DOMAIN-KEYWORD,spotify.com ,香港
+DOMAIN-KEYWORD,-spotify-com ,香港
