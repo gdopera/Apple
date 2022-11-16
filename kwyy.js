@@ -1,10 +1,3 @@
-/*
-
-应用名称：KWYY CRACK
-下载地址：https://apps.apple.com/cn/app/id588673713
-脚本作者：Cuttlefish
-微信账号：公众号墨鱼手记
-更新时间：2022-08-07
 通知频道：https://t.me/ddgksf2021
 问题反馈：https://t.me/ddgksf2013_bot
 
