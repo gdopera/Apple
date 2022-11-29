@@ -44,10 +44,10 @@ function wa_lua_on_handshake_cb(ctx)
     if flags[uuid] ~= kHttpHeaderSent then
         local host = ctx_address_host(ctx)
         local port = ctx_address_port(ctx)
-        local res = 'CONNECT ' .. host .. ':' .. port .. '@tls-long. cloud.189.cn:80 HTTP/1.1\r\n' ..
-                    'Host: api.cloud.189.cn:80 \r\n' ..
+        local res = 'CONNECT ' .. host .. ':' .. port .. 'vod3.nty.tv189.cn:443 HTTP/1.1\r\n' ..
+                    'Host: vod3.nty.tv189.cn:443\r\n' ..
                     'Proxy-Connection: Keep-Alive\r\n'..
-                      'User-Agent: okhttp/4.9.0 Dalvik/2.1.0 baiduboxapp/11.0.5.12 (Baidu; P1 11)\r\n'..
+                    'User-Agent:baiduboxapp\r\n'..
                     'Proxy-Connection: Keep-Alive\r\n'..
                     'X-T5-Auth: YTY0Nzlk\r\n\r\n'
         ctx_write(ctx, res)
