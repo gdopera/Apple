@@ -1,0 +1,28 @@
+# > 苹果推送服务
+host-keyword, push.apple.com
+# > 苹果天气服务
+host-keyword, weather-adge.apple.com
+# > 苹果内购服务
+host-keyword, buy.itunes.apple.com
+# > 苹果icloud
+host-keyword, icloud.com
+# > 苹果输入法相关服务
+host-keyword, api.smoot.apple.com
+host-keyword, api.smoot.apple.cn
+# > 苹果iMessage服务
+host, init.ess.apple.com
+# > 苹果其他服务
+host-keyword, ssl.apple.com
+host-keyword, humb.apple.com
+host, smp-device-content.apple.com
+host-keyword, api-adservices.apple.com
+host-keyword, ls.apple.com
+host-keyword, gsa.apple.com
+host-keyword, ess.apple.com
+host, identity.ess.apple.com
+host, p18-buy.itunes.apple.com
+host, stats.gc.apple.com
+host, p14-buy.itunes.apple.com
+host, api.smoot.apple.com
+HOST, apps.apple.com
+HOST, itunes.apple.com
