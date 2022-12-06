@@ -4,7 +4,7 @@
 
 !(async () => {
   ids = $prefs.valueForKey("APP_ID");
-  if (ids == "LPQmtkUs") {
+  if (ids == "HNprKXI9") {
     $notify("所有TF已加入完毕", "请手动关闭", "");
     $done();
   } else {
